@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color:#333333;
+    color: #eee;
+    font-size: 28px;
+
+  }
+
+  header{
+   color: #eee;
+   background: #333;
+
+  }
+
+  h1{
+
+    padding : 20px
+  }
+  .conatiner{
+      width: 1024px;
+      margin: 0 auto;
+
+  }
+  #bio-image{
+      
+  }
